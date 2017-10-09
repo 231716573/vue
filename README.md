@@ -50,19 +50,19 @@
 
 
 meta:
-    ```<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">```
-    ```<meta http-equiv="Cache-Control" content="no-siteapp"/>```
-    ```<meta name="renderer" content="webkit"> <!-- 启用360浏览器的极速模式(webkit) -->```
-    ```<meta http-equiv="X-UA-Compatible" content="IE=edge"> <!-- 避免IE使用兼容模式 -->```
-    ```<meta name="screen-orientation" content="portrait">```
-    ```<meta name="x5-orientation" content="portrait">```
-    ```<meta name="full-screen" content="yes">```
-    ```<meta name="x5-fullscreen" content="true">```
-    ```<meta name="x5-page-mode" content="app">```
-    ```<meta name="browsermode" content="application">```
-    ```<meta name="msapplication-tap-highlight" content="no">```
-    ```<meta name="copyright" content="hzzly">```
-    ```<meta name="keywords" content="html5,css3,vue,axios,vuex"> <!-- 关键词 -->```
-    ```<meta name="description" content="hzzly,xyy-vue"> <!-- 网站内容描述 -->```
+    ```<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">```<br />
+    ```<meta http-equiv="Cache-Control" content="no-siteapp"/>```<br />
+    ```<meta name="renderer" content="webkit"> <!-- 启用360浏览器的极速模式(webkit) -->```<br />
+    ```<meta http-equiv="X-UA-Compatible" content="IE=edge"> <!-- 避免IE使用兼容模式 -->```<br />
+    ```<meta name="screen-orientation" content="portrait">```<br />
+    ```<meta name="x5-orientation" content="portrait">```<br />
+    ```<meta name="full-screen" content="yes">```<br />
+    ```<meta name="x5-fullscreen" content="true">```<br />
+    ```<meta name="x5-page-mode" content="app">```<br />
+    ```<meta name="browsermode" content="application">```<br />
+    ```<meta name="msapplication-tap-highlight" content="no">```<br />
+    ```<meta name="copyright" content="hzzly">```<br />
+    ```<meta name="keywords" content="html5,css3,vue,axios,vuex"> <!-- 关键词 -->```<br />
+    ```<meta name="description" content="hzzly,xyy-vue"> <!-- 网站内容描述 -->```<br />
     ```<meta name="author" content="hzzly,hjingren@aliyun.com"> <!-- 作者 -->```
 
