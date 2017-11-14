@@ -12,7 +12,7 @@
 
    使用 cnpm 命令来安装模块：
 ```	 
-   cnpm install [name]
+   cnpm install [name]  //建议使用npm install，用cnpm install 有时会失败
 ```	 
 
 3、安装vue-cli
