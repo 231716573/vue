@@ -50,13 +50,14 @@
   3.9、 npm run build  //完成项目后打包
   
   3.9.1、 css、js路径出错解决方法：<br />
-          打开```build/webpack.prod.conf.js```文件，第25行改成：
-          ``` output: {
-                path: config.build.assetsRoot,
-                filename: utils.assetsPath('js/[name].[chunkhash].js'),
-                chunkFilename: utils.assetsPath('js/[id].[chunkhash].js'),
-                publicPath: './'     // 重点：添加publicPath
-              },
+          打开```build/webpack.prod.conf.js```文件，第25行改成： <br />
+          ``` 
+              output: { <br />
+                path: config.build.assetsRoot, <br />
+                filename: utils.assetsPath('js/[name].[chunkhash].js'), <br />
+                chunkFilename: utils.assetsPath('js/[id].[chunkhash].js'),   <br />
+                publicPath: './'     // 重点：添加publicPath <br />
+              }, <br />
           ```
 
 
