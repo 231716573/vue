@@ -49,8 +49,10 @@
   
   3.9、 npm run build  //完成项目后打包
   
-  3.9.1、 css、js路径出错解决方法：<br />
-          打开```build/webpack.prod.conf.js```文件，第25行改成：<br>
+
+4、问题：
+  1、css、js路径出错解决方法：<br />
+     打开```build/webpack.prod.conf.js```文件，第25行改成：<br>
 ```javascript
 output: {
   path: config.build.assetsRoot, 
