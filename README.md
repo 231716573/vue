@@ -3,9 +3,9 @@
 
 # vue-cli搭建
 
-1、安装nodejs
+### 1、安装nodejs
 
-2、使用淘宝定制的 cnpm (gzip 压缩支持) 命令行工具代替默认的 npm:
+### 2、使用淘宝定制的 cnpm (gzip 压缩支持) 命令行工具代替默认的 npm:
 ```
    npm install -g cnpm --registry=https://registry.npm.taobao.org
 ```	 
@@ -15,7 +15,7 @@
    cnpm install [name]  //建议使用npm install，用cnpm install 有时会失败
 ```	 
 
-3、安装vue-cli
+### 3、安装vue-cli
 
   3.1、 node -v               //查看node版本，需要4以上
 
@@ -50,7 +50,7 @@
   3.9、 npm run build  //完成项目后打包
   
 
-4、问题：
+### 4、问题：
   1、css、js路径出错解决方法：<br />
      打开```build/webpack.prod.conf.js```文件，第25行改成：<br>
 ```javascript
